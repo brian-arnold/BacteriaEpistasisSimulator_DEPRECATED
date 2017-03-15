@@ -1,0 +1,5 @@
+Loci	Ind	Gen	RR 	TrLen	Va	Vi	GenSize	SegSize NumSim
+10	744	744	1.19	0.0017	0.00	0.00000127699	2000000	5000	3
+
+
+## SmpGen must be 2 or greater, or floating point error!
