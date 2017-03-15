@@ -1,5 +1,6 @@
 # BacteriaEpistasisSimulator
 INSTALLATION/COMPILING/RUNNING
+
 To compile this program, keep all the files contents that end in .cpp and .h within the same directory, and type:
 
 g++ -O3 -I /Path/To/Boost/Library *.cpp
